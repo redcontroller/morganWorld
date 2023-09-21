@@ -13,4 +13,8 @@
 
 ## git status
 
-- 내 git 의 현재 상태
+- 내 git 의 현재상태를 본다.
+
+## git diff
+
+- 이전 기록(commit)을 기준을 변경사항을 본다.
